@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tutorial Purposes</string>
+    <string name="tutorial_message">Thank You for using my tutorial!</string>
+    <string name="alternative_message">Android Studio is a *bunch* of fun!</string>
+</resources>
